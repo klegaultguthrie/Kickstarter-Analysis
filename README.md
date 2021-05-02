@@ -11,9 +11,17 @@ The purpose of this analysis is two-fold. Firstly, to assist Louise in determini
 ## Analysis and Challenges
 The data was comiled into pivot tables and charts to assist with interpretation and visualization of the data set.
 
-The chart below depicts the impact of launch date on the success, failure and cancellation of thetre projects:
+The chart below depicts the impact of launch date on the success, failure and cancellation of theatre projects:
 
 ![Theatre_Outcomes_vs_Launch](https://github.com/klegaultguthrie/Kickstarter-Analysis/blob/main/Theatre_Outcomes_vs_Launch.png)
+
+The gretest challenge in this excercise was the conversion of the Unix Timestamp into a readable format, although this task was relatively straight forward.
+
+The chart below depicts the impact of fundraising goals on the scucess of plays:
+![
+
+
+
 
 ### Analysis of Outcomes Based on Launch Date
 
