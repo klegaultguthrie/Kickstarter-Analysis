@@ -1,5 +1,5 @@
 # Kickstarter-Analysis
-# MODULE 1 CHALLENGE - Kickstrting with Excel
+# MODULE 1 CHALLENGE - Kickstarting with Excel
 
 ## Project Overview
 This project used date compiled from over 4000 kickstarter campaigns and multiple countries. The kickstarter campaigns represented various projects in the Arts; however, the analysis is focused specifically on theatre campaigns.
@@ -15,24 +15,28 @@ The chart below depicts the impact of launch date on the success, failure and ca
 
 ![Theatre_Outcomes_vs_Launch](https://github.com/klegaultguthrie/Kickstarter-Analysis/blob/main/Theatre_Outcomes_vs_Launch.png)
 
-The gretest challenge in this excercise was the conversion of the Unix Timestamp into a readable format, although this task was relatively straight forward.
+The greatest challenge in this excercise was the conversion of the Unix Timestamp into a readable format, although this task was relatively straight forward.
 
 The chart below depicts the impact of fundraising goals on the scucess of plays:
-![Outcomes_vs_Goals](
+![Outcomes_vs_Goals](https://github.com/klegaultguthrie/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png)
 
-
+The greatest challenge in creating this analysis was the use of multiple COUNTIFS statements. I rewatched the video that explained this function several times, and I was readily able to then write the formula without further asisstance.
 
 
 ### Analysis of Outcomes Based on Launch Date
+#Conclusion 1
+The number of successful and failed theatre campaigns both peak during the month of May.
+
+#Conclusion 2
+The number of successful theatre campaigns is more accutely impacted by launch date than failed campaigns.
 
 ### Analysis of Outcomes Based on Goals
+#Conclusion 1
+Fundraising goals alone do not appear to be a determinant of a play's success or failure, as this variable does not take into account how much of the goal was actually acheived.
 
-### Challenges and Difficulties Encountered
+### Limitations of the Data Set:
+1. Given that the results draw on data from multiple countries, it's hard to analyse the data as a whole. Drawing causation might be easier if campaigns were grouped by continent, or by country. I would hypothesize that culture would play a major role on the success or failure of various theatre programs.
+2. Outcomes based on pledged amount would be a better indicator of success and/or failure than using fundraiser goal targets. 
+3. Success in this scenario was defined as those campaigns that acheive or exceed their fundraising goal. Other targets of success would also be beneficial to measure. We could collect data related to attendance and reviews as well.
 
-## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-
-- What can you conclude about the Outcomes based on Goals?
-
-- What are some limitations of this dataset?
