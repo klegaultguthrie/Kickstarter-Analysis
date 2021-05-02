@@ -18,7 +18,7 @@ The chart below depicts the impact of launch date on the success, failure and ca
 The gretest challenge in this excercise was the conversion of the Unix Timestamp into a readable format, although this task was relatively straight forward.
 
 The chart below depicts the impact of fundraising goals on the scucess of plays:
-![
+![Outcomes_vs_Goals](
 
 
 
