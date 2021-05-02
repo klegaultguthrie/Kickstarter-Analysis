@@ -13,7 +13,7 @@ The data was comiled into pivot tables and charts to assist with interpretation 
 
 The chart below depicts the impact of launch date on the success, failure and cancellation of thetre projects:
 
-![Theatre_Outcomes_vs_Launch](
+![Theatre_Outcomes_vs_Launch](https://github.com/klegaultguthrie/Kickstarter-Analysis/blob/main/Theatre_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Launch Date
 
